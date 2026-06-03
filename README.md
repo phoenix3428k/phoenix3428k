@@ -28,7 +28,7 @@ A comprehensive platform for students featuring placement preparation resources,
 
 ## 🔗 Connect With Me
 
-- Portfolio: [YOUR_VERCEL_LINK](https://debi-portfolio.vercel.app/)
+- Portfolio: https://debi-portfolio.vercel.app/
 - GitHub: https://github.com/phoenix3428k
 - LinkedIn: https://www.linkedin.com/in/debi-beura-8a3781345/
 
