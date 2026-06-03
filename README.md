@@ -1,4 +1,4 @@
-# Hi, I'm Debi Prasad Beura 👋
+# Hi, I'm Debi 👋
 
 ## 🚀 About Me
 Computer Science undergraduate passionate about Machine Learning, Java Development, and Full Stack Applications.
