@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile.jpg" alt="Debi Beura" width="120" style="border-radius: 50%;" />
+<img src="profile.jpeg" alt="Debi Beura" width="120" style="border-radius: 50%;" />
 
 <br/>
 
