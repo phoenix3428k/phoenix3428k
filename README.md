@@ -93,9 +93,6 @@ Interview experiences · Company insights · Coding guidance · Career support �
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=phoenix3428k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix3428k&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-
 </div>
 
 <div align="center">
