@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="profile.jpeg" alt="Debi Beura" width="120" style="border-radius: 50%;" />
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="60" cy="60" r="58"/>
+    </clipPath>
+  </defs>
+  <circle cx="60" cy="60" r="59" fill="none" stroke="#7F77DD" stroke-width="2"/>
+  <image href="profile.jpeg" x="0" y="0" width="120" height="120" clip-path="url(#circle)" preserveAspectRatio="xMidYMid slice"/>
+</svg>
 
 <br/>
 
