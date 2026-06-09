@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Debi Prasad Beura</h1>
+<h1 align="center">Hi 👋, I'm Debi Beura</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer | Java Enthusiast | Problem Solver
@@ -42,11 +42,11 @@ A complete placement preparation ecosystem featuring:
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/debi-beura-8a3781345/">
   <img src="./assets/animated-logos/social-media/linkedin.gif" width="80"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:debibeura10@gmail.com">
   <img src="./assets/animated-logos/social-media/gmail.gif" width="80"/>
 </a>
 
@@ -54,7 +54,7 @@ A complete placement preparation ecosystem featuring:
   <img src="./assets/animated-logos/social-media/github.gif" width="80"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://debi-portfolio.vercel.app/">
   <img src="./assets/animated-logos/social-media/vercel.gif" width="80"/>
 </a>
 
