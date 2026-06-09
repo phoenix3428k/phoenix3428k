@@ -6,7 +6,7 @@
 </h3>
 <br>
 <div align="center">
-  <img src="assets/coder.gif" width="450">
+  <img src="coder.gif" width="450">
 </div>
 <br>
 
